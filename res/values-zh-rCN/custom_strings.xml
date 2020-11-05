@@ -243,4 +243,11 @@
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">媒体播放控制</string>
     <string name="volume_button_music_control_summary">屏幕关闭时，长按音量键将跳过音乐曲目</string>
+    <string name="keywords_pulse_ambient_light_display">通知，边缘，光，颜色</string>
+    <string name="pulse_ambient_light_text">当您手机处于息屏状态中收到通知时，屏幕边缘将亮起光效</string>
+    <string name="pulse_ambient_light_title">全景光效</string>
+    <string name="pulse_ambient_light_summary">当收到通知时亮起屏幕边缘光效</string>
+    <string name="ambient_notification_light_accent_title">系统强调色</string>
+    <string name="ambient_notification_light_color_automatic_title">通知色</string>
+    <string name="pulse_ambient_light_color">当收到通知时使用</string>
 </resources>
